@@ -10,7 +10,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["praise-cli", "praise", "compliment"],
   "author": "Jon Meyers <jonathon.d.meyers@gmail.com> (https://github.com/iamqaz)",
   "license": "ISC",
   "dependencies": {
