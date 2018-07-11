@@ -3,28 +3,20 @@
 
 Install with npm
 
-    ```
     npm i -g praise-cli
-    ```
 
 Run with compliment or praise command
 
-    ```
     compliment
-    ```
 
-    or
+or
 
-    ```
     praise
-    ```
 
 Personalise your message with a name
 
-    ```
     compliment Mary
-    ```
 
-    ```
+or
+
     praise Sam
-    ```
