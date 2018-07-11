@@ -2,12 +2,18 @@
   "name": "praise-me",
   "version": "1.0.0",
   "description": "",
-  "bin": "index.js",
-  "main": "index.js",
+  "bin": {
+    "praise": "./cli.js",
+    "compliment": "./cli.js"
+  },
+  "main": "cli.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Jon Meyers <jonathon.d.meyers@gmail.com> (https://github.com/iamqaz)",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
 }
