@@ -1,6 +1,6 @@
 {
   "name": "praise-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "bin": {
     "praise": "./cli.js",
@@ -10,7 +10,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["praise-cli", "praise", "compliment"],
+  "keywords": [
+    "praise-cli",
+    "praise",
+    "compliment"
+  ],
   "author": "Jon Meyers <jonathon.d.meyers@gmail.com> (https://github.com/iamqaz)",
   "license": "ISC",
   "dependencies": {
