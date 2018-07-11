@@ -1,5 +1,5 @@
 {
-  "name": "praise-me",
+  "name": "praise-cli",
   "version": "1.0.1",
   "description": "",
   "bin": {
